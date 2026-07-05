@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\my_algorithms\\pc03\\validate_electronic_receipt.csproj",
-      "projectName": "validate_electronic_receipt",
-      "projectPath": "D:\\workspace\\my_algorithms\\pc03\\validate_electronic_receipt.csproj",
+      "projectUniqueName": "d:\\workspace\\my_algorithms\\pc03\\program.csproj",
+      "projectName": "program",
+      "projectPath": "d:\\workspace\\my_algorithms\\pc03\\program.csproj",
       "packagesPath": "C:\\Users\\valdi\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\my_algorithms\\pc03\\obj\\",
+      "outputPath": "d:\\workspace\\my_algorithms\\pc03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\valdi\\AppData\\Roaming\\NuGet\\NuGet.Config"

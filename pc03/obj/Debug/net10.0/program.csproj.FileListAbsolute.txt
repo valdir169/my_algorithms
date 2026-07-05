@@ -1,0 +1,15 @@
+D:\workspace\my_algorithms\pc03\bin\Debug\net10.0\program.exe
+D:\workspace\my_algorithms\pc03\bin\Debug\net10.0\program.deps.json
+D:\workspace\my_algorithms\pc03\bin\Debug\net10.0\program.runtimeconfig.json
+D:\workspace\my_algorithms\pc03\bin\Debug\net10.0\program.dll
+D:\workspace\my_algorithms\pc03\bin\Debug\net10.0\program.pdb
+D:\workspace\my_algorithms\pc03\obj\Debug\net10.0\program.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\my_algorithms\pc03\obj\Debug\net10.0\program.AssemblyInfoInputs.cache
+D:\workspace\my_algorithms\pc03\obj\Debug\net10.0\program.AssemblyInfo.cs
+D:\workspace\my_algorithms\pc03\obj\Debug\net10.0\program.csproj.CoreCompileInputs.cache
+D:\workspace\my_algorithms\pc03\obj\Debug\net10.0\program.sourcelink.json
+D:\workspace\my_algorithms\pc03\obj\Debug\net10.0\program.dll
+D:\workspace\my_algorithms\pc03\obj\Debug\net10.0\refint\program.dll
+D:\workspace\my_algorithms\pc03\obj\Debug\net10.0\program.pdb
+D:\workspace\my_algorithms\pc03\obj\Debug\net10.0\program.genruntimeconfig.cache
+D:\workspace\my_algorithms\pc03\obj\Debug\net10.0\ref\program.dll
