@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Workspace\\my_algorithms\\tech_shop\\tech_shop.csproj": {}
+    "D:\\workspace\\my_algorithms\\tech_shop\\tech_shop.csproj": {}
   },
   "projects": {
-    "d:\\Workspace\\my_algorithms\\tech_shop\\tech_shop.csproj": {
+    "D:\\workspace\\my_algorithms\\tech_shop\\tech_shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Workspace\\my_algorithms\\tech_shop\\tech_shop.csproj",
+        "projectUniqueName": "D:\\workspace\\my_algorithms\\tech_shop\\tech_shop.csproj",
         "projectName": "tech_shop",
-        "projectPath": "d:\\Workspace\\my_algorithms\\tech_shop\\tech_shop.csproj",
+        "projectPath": "D:\\workspace\\my_algorithms\\tech_shop\\tech_shop.csproj",
         "packagesPath": "C:\\Users\\valdi\\.nuget\\packages\\",
-        "outputPath": "d:\\Workspace\\my_algorithms\\tech_shop\\obj\\",
+        "outputPath": "D:\\workspace\\my_algorithms\\tech_shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valdi\\AppData\\Roaming\\NuGet\\NuGet.Config"
