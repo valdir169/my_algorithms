@@ -1,0 +1,15 @@
+D:\workspace\my_algorithms\tech_shop\bin\Debug\net10.0\tech_shop.exe
+D:\workspace\my_algorithms\tech_shop\bin\Debug\net10.0\tech_shop.deps.json
+D:\workspace\my_algorithms\tech_shop\bin\Debug\net10.0\tech_shop.runtimeconfig.json
+D:\workspace\my_algorithms\tech_shop\bin\Debug\net10.0\tech_shop.dll
+D:\workspace\my_algorithms\tech_shop\bin\Debug\net10.0\tech_shop.pdb
+D:\workspace\my_algorithms\tech_shop\obj\Debug\net10.0\tech_shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\my_algorithms\tech_shop\obj\Debug\net10.0\tech_shop.AssemblyInfoInputs.cache
+D:\workspace\my_algorithms\tech_shop\obj\Debug\net10.0\tech_shop.AssemblyInfo.cs
+D:\workspace\my_algorithms\tech_shop\obj\Debug\net10.0\tech_shop.csproj.CoreCompileInputs.cache
+D:\workspace\my_algorithms\tech_shop\obj\Debug\net10.0\tech_shop.sourcelink.json
+D:\workspace\my_algorithms\tech_shop\obj\Debug\net10.0\tech_shop.dll
+D:\workspace\my_algorithms\tech_shop\obj\Debug\net10.0\refint\tech_shop.dll
+D:\workspace\my_algorithms\tech_shop\obj\Debug\net10.0\tech_shop.pdb
+D:\workspace\my_algorithms\tech_shop\obj\Debug\net10.0\tech_shop.genruntimeconfig.cache
+D:\workspace\my_algorithms\tech_shop\obj\Debug\net10.0\ref\tech_shop.dll
