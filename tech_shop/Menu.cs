@@ -2,8 +2,6 @@ internal class Menu
 {
     public static void Run()
     {
-
-        Console.WriteLine("Welcome to TechShop!");
         while (true)
         {
             Console.Clear();
@@ -48,25 +46,25 @@ internal class Menu
                 ProductService.ListProduct();
                 break;
             case "3":
-                Console.WriteLine("Buscar un producto por código");
+                ProductService.SearchProduct();
                 break;
             case "4":
-                Console.WriteLine("Actualizar el stock (sumar o restar)");
+                ProductService.UpdateStock();
                 break;
             case "5":
-                Console.WriteLine("Ordenar el catálogo por precio (burbuja)");
+                ProductService.SortByPrice();
                 break;
             case "6":
-                Console.WriteLine("Insertar un producto en una posición específica");
+                ProductService.InsertProduct();
                 break;
             case "7":
-                Console.WriteLine("Eliminar un producto por código");
+                ProductService.DeleteProductByCode();
                 break;
             case "8":
-                Console.WriteLine("Ordenar el catálogo por nombre (alfabético)");
+                ProductService.SortByName();
                 break;
             case "9":
-                Console.WriteLine("Demostración: parámetro por valor vs. por referencia");
+                Demo.DemoValueVsReference();
                 break;
             case "0":
                 Exit();
@@ -91,4 +89,19 @@ internal class Menu
         Console.ReadKey(true);
     }
 
+    public static void PrintHeader()
+    {
+        Console.WriteLine("---------------------------------------------------------------");
+        Console.WriteLine($"{"Codigo",-10} {"Nombre",-20} {"Precio",10} {"Stock",8}");
+        Console.WriteLine("---------------------------------------------------------------");
+    }
+
+    public static void PrintProduct(Product product)
+    {
+        Console.WriteLine(
+            $"{product.ProductCode,-10} " +
+            $"{product.Name,-20} " +
+            $"{product.Price,10:F2} " +
+            $"{product.StockInitial,8}");
+    }
 }
