@@ -19,7 +19,7 @@ internal class Menu
         Console.WriteLine("---------------------------------------------------------------\n");
 
 
-        Message.ShowInfo("1. Registrar un producto (validando datos)");
+        Message.ShowInfo("1. Registrar un producto.");
         Message.ShowInfo("2. Mostrar el catálogo completo");
         Message.ShowInfo("3. Buscar un producto por código");
         Message.ShowInfo("4. Actualizar el stock (sumar o restar)");
