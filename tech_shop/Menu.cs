@@ -14,6 +14,11 @@ internal class Menu
 
     private static void DisplayMenu()
     {
+        Console.WriteLine("---------------------------------------------------------------");
+        Console.WriteLine("|                          TECH SHOP                          |");
+        Console.WriteLine("---------------------------------------------------------------\n");
+
+
         Message.ShowInfo("1. Registrar un producto (validando datos)");
         Message.ShowInfo("2. Mostrar el catálogo completo");
         Message.ShowInfo("3. Buscar un producto por código");
@@ -37,10 +42,10 @@ internal class Menu
         switch (option)
         {
             case "1":
-                Console.WriteLine("Registrar un producto ");
+                ProductService.AddProduct();
                 break;
             case "2":
-                Console.WriteLine("Mostrar el catálogo completo");
+                ProductService.ListProduct();
                 break;
             case "3":
                 Console.WriteLine("Buscar un producto por código");
